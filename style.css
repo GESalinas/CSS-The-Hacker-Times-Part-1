@@ -24,3 +24,23 @@ ul > li {
     color: #777;
     font-family: Source Sans Pro;
 }
+
+nav {
+    position: sticky;
+    top: .1px;
+    background: white;
+}
+
+.newspaper-container-two{
+    width: 700px;
+    margin: 3em auto;
+    padding: 1em;
+    box-sizing: border-box;
+    border-radius: 10px;
+    background: white;
+    box-shadow: 1px 1px 5px #ddd;
+}
+
+.gaming {
+    width: 500px;
+}
